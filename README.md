@@ -1,5 +1,7 @@
 # Presentación
 
-## Estudiante:  Facundo Malnero
+## Estudiante: Facundo Malnero
 
-Seguí los pasos del doc [acá](https://docs.google.com/document/d/e/2PACX-1vQkogtG88cmwEIXEuff291urSyrZUYHikLIoRTspUodvIg5OoaUJTi8n0vqPJ3XUSN65sqJALTBizeB/pub).
+Mi nombre es Facundo y tengo 19 años. Este es mi segundo año en la facultad y por el momento no estoy trabajando
+
+![mifoto](Facu.jpg)
